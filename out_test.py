@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 import sys
  
 r = open(sys.argv[1], 'rb') 
